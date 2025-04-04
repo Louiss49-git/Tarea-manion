@@ -1,8 +1,3 @@
-¡Claro! Aquí tienes un `README.md` completo y bien estructurado para tu proyecto de prueba en Python con `NumPy`:
-
----
-
-```markdown
 # Proyecto de Prueba con NumPy
 
 Este es un proyecto sencillo en Python que utiliza la librería **NumPy** para crear e imprimir un array. Es ideal como ejemplo para practicar la configuración de entornos virtuales, gestión de dependencias, documentación y control de versiones con Git y GitHub.
