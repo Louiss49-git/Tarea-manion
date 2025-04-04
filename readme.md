@@ -14,9 +14,9 @@ Sigue estos pasos para clonar y ejecutar el proyecto en tu entorno local:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   cd tu_repositorio
-   ```
+   git clone https://github.com/Louiss49-git/Tarea-manion.git
+   cd Tarea-manion
+   ``
 
 2. Crea un entorno virtual e instálalo:
    ```bash
